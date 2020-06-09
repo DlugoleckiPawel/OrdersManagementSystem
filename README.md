@@ -22,8 +22,8 @@ and then run the App.main method.
 
 NOTE: There might be some issues with files directory relative path pattern which highly depends on your Operating System. Originally the program is designed to be run on the windows platform.
 
-Configure your database connection (database url etc.) - change appropriate properties in persistence.xml file
-Change project jdk to 8.
+* Configure your database connection (database url etc.) - change appropriate properties in persistence.xml file
+* Change project jdk to 8.
 
 ## Features
 * Unit tests 
